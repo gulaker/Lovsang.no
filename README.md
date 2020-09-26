@@ -1,2 +1,2 @@
 # Lovsang.no
-For scripts used on lovsang.no
+Scripts for handling and displaying ChordPro-files used on lovsang.no
